@@ -1,0 +1,11 @@
+.main-view,
+.sidemenu-open .sidemenu,
+.navbar,
+.dashboard-container {
+  background: url("https://images4.alphacoders.com/242/thumb-1920-242556.png")
+  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
